@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi there, I'm Huy Hoang(Dang Nguyen Huy Hoang) 👋</h1>
 
-<h3 align="center">Backend Developer | Java & Spring Boot</h3>
+<h3 align="center">Backend Developer | Software Engineer</h3>
 
 <p align="center">
   Information Systems Student at University of Information Technology (VNUHCM)
 </p>
 
 <p align="center">
-  <a href="https://github.com/hoangdang">
+  <a href="https://github.com/danghoang2510-k18">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:dangnguyenhuyhoang1233@gmail.com">
+  <a href="mailto:dangnguyenhuyhoang123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -93,5 +93,5 @@ A backend application for managing football leagues, teams, players, matches, st
 ## Contact
 
 - 📧 Email: [dangnguyenhuyhoang1233@gmail.com](mailto:dangnguyenhuyhoang1233@gmail.com)
-- 💻 GitHub: [@hoangdang](https://github.com/hoangdang)
-- 💼 LinkedIn: [Add your LinkedIn profile](YOUR_LINKEDIN_URL)
+- 💻 GitHub: [@hoangdang](https://github.com/danghoang2510-k18)
+- 💼 LinkedIn: [@hoangdang](https://www.linkedin.com/in/ho%C3%A0ng-huy-515a25433/?isSelfProfile=true)
