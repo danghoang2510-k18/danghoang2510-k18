@@ -67,7 +67,7 @@ A digital wallet backend designed to support secure financial transactions and r
 - Applied database transactions, optimistic locking, and Redis idempotency keys to improve transaction consistency.
 - Implemented an Outbox-based event-driven notification flow with Kafka, retry/DLT handling, and WebSocket/STOMP.
 
-🔗 [View Repository](YOUR_DIGITAL_WALLET_REPOSITORY_URL)
+🔗 [View Repository](https://github.com/danghoang2510-k18/digital-wallet)
 
 ### ⚽ Soccer Manager — Football League Management System
 
@@ -80,7 +80,7 @@ A backend application for managing football leagues, teams, players, matches, st
 - Built real-time notifications for lineup, registration, match, and league updates.
 - Used Jsoup and scheduled background jobs to synchronize V.League fixtures, team information, and football news.
 
-🔗 [View Repository](YOUR_SOCCER_MANAGER_REPOSITORY_URL)
+🔗 [View Repository](https://github.com/danghoang2510-k18/SoccerManager_BE)
 
 ## Areas of Interest
 
