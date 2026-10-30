@@ -92,6 +92,6 @@ A backend application for managing football leagues, teams, players, matches, st
 
 ## Contact
 
-- 📧 Email: [dangnguyenhuyhoang1233@gmail.com](mailto:dangnguyenhuyhoang1233@gmail.com)
+- 📧 Email: [dangnguyenhuyhoang123@gmail.com](mailto:dangnguyenhuyhoang1233@gmail.com)
 - 💻 GitHub: [@hoangdang](https://github.com/danghoang2510-k18)
 - 💼 LinkedIn: [@hoangdang](https://www.linkedin.com/in/ho%C3%A0ng-huy-515a25433/?isSelfProfile=true)
