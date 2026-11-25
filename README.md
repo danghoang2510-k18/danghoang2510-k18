@@ -20,7 +20,7 @@
 
 - 🎓 Fourth-year Information Systems student at UIT - VNUHCM.
 - 💻 Aspiring Backend Developer with hands-on experience building RESTful APIs and database-driven applications.
-- ☕ Focused on Java, Spring Boot, backend architecture, and database design.
+- ☕ Focused on backend architecture, and database design.
 - 🔐 Interested in secure authentication, reliable transaction processing, and event-driven systems.
 - 🚀 Currently strengthening my skills in backend engineering and distributed systems.
 
@@ -31,11 +31,13 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 **Backend & Security**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3EAAAF?style=flat-square)
 
